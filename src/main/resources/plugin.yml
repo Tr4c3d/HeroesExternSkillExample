@@ -1,0 +1,6 @@
+name: TestPlugin
+version: 1.0
+main: org.riking.herocraft.externsample.ExternalHeroesSkill
+
+loadbefore: [Heroes_RPG_Plugin]
+
